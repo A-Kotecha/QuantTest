@@ -65,7 +65,7 @@ There should be a code generation report, code coverage to test against industri
 
 Q2. Reasons behind choice of tech stack?
 
-A2. The reason for why this tech stack was chosen is because it is widely used for drone development. Moreover, you can use ArduPilot for commercial use without having to pay a fee, unlike some other source codes. Python was chosen as a language as it is what I have most experience in between that and C++. Ubuntu 18.04 was chosen as it is needed to use ROS Melodic, and Melodic was chosen as it is modern and well tested. While Noetic could have been used Melodic was considered more robust. Moreover, university computers that have Linux available to me only use 18.04.
+A2. The reason for why this tech stack was chosen is because it is widely used for drone development. Moreover, you can use ArduPilot for commercial use without having to pay a fee, unlike some other source codes. Python was chosen as a language as it is what I have most experience in between that and C++. Ubuntu 18.04 was chosen as it is needed to use ROS Melodic, and Melodic was chosen as it is modern and well tested. While Noetic could have been used Melodic was considered more robust.
 
 Q3. What would you add with 1 week extra?
 
