@@ -16,7 +16,7 @@ Use ` conda create --name py27 python=2.7` if SITL does not work to switch to Py
 
 1. Git clone file first
 
-2. If catkin workspaces havent been used before in PC being used, or supplied catkin does not work:
+2. If catkin workspaces havent been used before in PC being used:
 
 `sudo apt-get install python-wstool python-rosinstall-generator python-catkin-tools`
 
