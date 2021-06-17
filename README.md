@@ -16,13 +16,14 @@ Use ` conda create --name py27 python=2.7` if SITL does not work to switch to Py
 
 1. Git clone file first
 
-2. If catkin workspaces havent been used before in PC being used:
+2. If catkin workspaces havent been used before in PC being used, or supplied catkin does not work:
 
 `sudo apt-get install python-wstool python-rosinstall-generator python-catkin-tools`
 
-Then do
 
-`cd QuantumAviation/catkin_ws`
+Then install the necessary dependancies. Then do:
+
+`cd Quant/catkin_ws`
 
 `catkin build` 
 
@@ -47,7 +48,7 @@ If asked to `catkin clean -b` do so and then run `catkin build` again
 
 6. On a new terminal run Python Script
 
-`cd QuantumAviation/src/scripts`
+`cd Quant/src/src2/scripts`
 
 `python Quant_AranKotecha.py`
 
